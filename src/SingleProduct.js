@@ -1,4 +1,4 @@
-import { useEffect , useState } from "react";
+import { useEffect } from "react";
 import styled from "styled-components";
 import { useParams } from "react-router-dom";
 import { useProductContext } from "./context/productcontex";
@@ -10,9 +10,9 @@ import { MdSecurity } from "react-icons/md";
 import { TbTruckDelivery, TbReplace } from "react-icons/tb";
 import Star from "./components/Star";
 import AddToCart from "./components/AddToCart";
-import SingleData from "./components/SingleData.json"
+// import SingleData from "./components/SingleData.json"
 
-const API = "https://api.pujakaitem.com/api/products";
+// const API = "https://api.pujakaitem.com/api/products";
 // const API = "https://mocki.io/v1/bc6ef46b-a3a8-4aa2-9102-6c4a61b6a283";
 const API1 = "https://mocki.io/v1/7081298c-5dcd-4f64-af06-1e008567e87d"
 

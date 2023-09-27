@@ -1,7 +1,7 @@
 import { createContext, useContext, useEffect, useReducer } from "react";
 import axios from "axios";
 import reducer from "../reducer/productReducer";
-import { useParams } from "react-router-dom";
+// import { useParams } from "react-router-dom";
 
 const AppContext = createContext();
 
@@ -19,7 +19,7 @@ const initialState = {
 
 const AppProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, initialState);
-  const { id } = useParams();
+  // const { id } = useParams();
 
   const getProducts = async (url) => {
     dispatch({ type: "SET_LOADING" });
