@@ -1,0 +1,173 @@
+[
+    {
+    "id": "thapaserialnoa",
+    "name": "Leather bag",
+    "company": "channel",
+    "price": 60000,
+    "colors": [
+    "#ff0000",
+    "#000000",
+    "#CDD0D0"
+    ],
+    "description": "Introducing our exquisite Premium Leather Handbag, a versatile accessory that effortlessly blends fashion and functionality. This timeless piece is designed to elevate your style and cater to the needs of the modern woman. Crafted from the highest quality full-grain leather, this handbag is not just a fashion statement; it's a symbol of enduring elegance and durability.",
+    "category": "leather",
+    "featured": true,
+    "stock": 5,
+    "reviews": 58,
+    "stars": 4.8,
+    "image": [
+    {
+    "id": "randomid1",
+    "width": 1080,
+    "height": 650,
+    "url": " https://images.unsplash.com/photo-1473188588951-666fce8e7c68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHwxfHxsZWF0aGVyX2JhZ3xlbnwwfHx8fDE2OTU4MDYzMzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-1.png",
+    "size": 1080,
+    "type": "image/png"
+    },
+    {
+    "id": "randomid2",
+    "width": 1080,
+    "height": 650,
+    "url": " https://images.unsplash.com/photo-1603219527847-24c87f552a77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHwyfHxsZWF0aGVyX2JhZ3xlbnwwfHx8fDE2OTU4MDYzMzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-2.png",
+    "size": 1080,
+    "type": "image/png"
+    },
+    {
+    "id": "randomid3",
+    "width": 1080,
+    "height": 650,
+    "url": " https://images.unsplash.com/photo-1608731267464-c0c889c2ff92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHwzfHxsZWF0aGVyX2JhZ3xlbnwwfHx8fDE2OTU4MDYzMzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-3.png",
+    "size": 1080,
+    "type": "image/png"
+    },
+    {
+    "id": "randomid4",
+    "width": 1080,
+    "height": 650,
+    "url": "https://images.unsplash.com/photo-1624687943971-e86af76d57de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHw0fHxsZWF0aGVyX2JhZ3xlbnwwfHx8fDE2OTU4MDYzMzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-4.png",
+    "size": 1080,
+    "type": "image/png"
+    }
+    ]
+    },
+    
+    
+    
+    {
+    "id": "thapaserialnob",
+    "name": "Animal Skin Bag",
+    "company": "Lois vuiton",
+    "price": 50000,
+    "colors": [
+    "#ff0000",
+    "#000000",
+    "#CDD0D0"
+    ],
+    "description": "Introducing our remarkable Animal Skin Bag, a captivating accessory that seamlessly merges the allure of the natural world with functional elegance. Handcrafted from ethically sourced animal skins, this bag is not just a fashion statement; it's a testament to our unwavering commitment to sustainability and responsible fashion practices. Each bag in our collection is a masterpiece that tells a distinct and captivating story, showcasing the raw beauty, inherent markings, and distinctive textures found in the animal's hide.",
+    "category": "animal",
+    "featured": true,
+    "stock": 3,
+    "reviews": 88,
+    "stars": 3.8,
+    "image": [
+    {
+    "id": "randomid1",
+    "width": 1080,
+    "height": 650,
+    "url": " https://images.unsplash.com/photo-1584917865442-de89df76afd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHwxfHxfYmFnfGVufDB8fHx8MTY5NTgwNjkzMXww&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-1.png",
+    "size": 1080,
+    "type": "image/png"
+    },
+    {
+    "id": "randomid2",
+    "width": 1080,
+    "height": 650,
+    "url": " https://images.unsplash.com/photo-1590874103328-eac38a683ce7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHwzfHxfYmFnfGVufDB8fHx8MTY5NTgwNjkzMXww&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-2.png",
+    "size": 1080,
+    "type": "image/png"
+    },
+    {
+    "id": "randomid3",
+    "width": 1080,
+    "height": 650,
+    "url": " https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHw0fHxfYmFnfGVufDB8fHx8MTY5NTgwNjkzMXww&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-3.png",
+    "size": 1080,
+    "type": "image/png"
+    },
+    {
+    "id": "randomid4",
+    "width": 1080,
+    "height": 650,
+    "url": "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHw1fHxfYmFnfGVufDB8fHx8MTY5NTgwNjkzMXww&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-4.png",
+    "size": 1080,
+    "type": "image/png"
+    }
+    ]
+    },
+    
+    
+    
+    {
+    "id": "thapaserialnoc",
+    "name": "cotton-Bag",
+    "company": "Dior",
+    "price": 600000,
+    "colors": [
+    "#ff0000",
+    "#000000",
+    "#CDD0D0"
+    ],
+    "description": "Introducing our Cotton Bag, a versatile and eco-friendly accessory that embodies simplicity, sustainability, and style. Crafted from 100% organic cotton, this bag is a conscious choice for those who value both fashion and the environment. Whether you're headed to the grocery store, the beach, or a casual outing, our Cotton Bag is designed to meet your everyday needs with ease and elegance.",
+    "category": "cotton",
+    "featured": true,
+    "stock": 5,
+    "reviews": 18,
+    "stars": 1.8,
+    "image": [
+    {
+    "id": "randomid1",
+    "width": 1080,
+    "height": 650,
+    "url": " https://images.unsplash.com/photo-1610282081854-9c311350beb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHwxfHxjb3R0b25fYmFnfGVufDB8fHx8MTY5NTgwMzM3NHww&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-1.png",
+    "size": 1080,
+    "type": "image/png"
+    },
+    {
+    "id": "randomid2",
+    "width": 1080,
+    "height": 650,
+    "url": " https://images.unsplash.com/photo-1572196284554-4e321b0e7e0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHwyfHxjb3R0b25fYmFnfGVufDB8fHx8MTY5NTgwMzM3NHww&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-2.png",
+    "size": 1080,
+    "type": "image/png"
+    },
+    {
+    "id": "randomid3",
+    "width": 1080,
+    "height": 650,
+    "url": " https://images.unsplash.com/photo-1535981444082-2a5dc0548ef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHwzfHxjb3R0b25fYmFnfGVufDB8fHx8MTY5NTgwMzM3NHww&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-3.png",
+    "size": 1080,
+    "type": "image/png"
+    },
+    {
+    "id": "randomid4",
+    "width": 1080,
+    "height": 650,
+    "url": "https://images.unsplash.com/photo-1548863227-3af567fc3b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDgxNzN8MHwxfHNlYXJjaHw0fHxjb3R0b25fYmFnfGVufDB8fHx8MTY5NTgwMzM3NHww&ixlib=rb-4.0.3&q=80&w=1080",
+    "filename": "prod-4.png",
+    "size": 1080,
+    "type": "image/png"
+    }
+    ]
+    }
+    ]
