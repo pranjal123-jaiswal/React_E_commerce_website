@@ -1,8 +1,8 @@
-import { useAuth0 } from "@auth0/auth0-react";
+// import { useAuth0 } from "@auth0/auth0-react";
 import styled from "styled-components";
 
 const Contact = () => {
-  const { isAuthenticated, user } = useAuth0();
+  // const { isAuthenticated, user } = useAuth0();
 
   const Wrapper = styled.section`
     padding: 9rem 0 5rem 0;
@@ -36,8 +36,7 @@ const Contact = () => {
     }
   `;
 
-  const defaultUsername = "Default Username";
-  const defaultEmail = "default@example.com";
+
 
   return (
     <Wrapper>

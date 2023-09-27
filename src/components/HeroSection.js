@@ -15,7 +15,7 @@ const HeroSection = ({ myData }) => {
             <p>
             Welcome to our handbag paradise! At our handbag store, we offer a curated collection of exquisite handbags that blend fashion and functionality seamlessly. Whether you're in search of a statement piece to elevate your outfit or a versatile everyday companion, we have the perfect handbag for every occasion. Our handbags are crafted with precision, using only the finest materials to ensure durability and style. Explore our diverse range of designs, from classic to contemporary, and discover the ideal handbag that suits your unique personality and lifestyle. With a commitment to quality and customer satisfaction, we invite you to indulge in the world of luxury handbags at our store.
             </p>
-            <NavLink>
+            <NavLink to = "./about">
               <Button>show now</Button>
             </NavLink>
           </div>
